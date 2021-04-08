@@ -10,10 +10,10 @@
 - [x] Dia 03: Menlista e Números Aleatórios
 - [x] Dia 04:AluraFlix
 - [x] Dia 05:Refatorando o AluraFlix com funções
-- [ ] Dia 06:
-- [ ] Dia 07:
-- [ ] Dia 09:
-- [ ] Dia 10:
+- [x] Dia 06:Tabela de classificação e objetos no Javascript
+- [x] Dia 07:Trunfo e lógica do jogo
+- [x] Dia 09:Trunfo, imagens e manipulação do HTML e CSS
+- [x] Dia 10:Certificard
 ## 💼 Tecnologias
 
 - HTML
