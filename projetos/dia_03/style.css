@@ -1,12 +1,12 @@
 body {
-    font-family: 'Roboto Mono',monospace;
-    min-height: 854px;
-    background-image: url("https://i.pinimg.com/originals/a2/6c/af/a26caf8007678c9c489207faf8230ac6.gif");
-    background-attachment: scroll-position;
-    background-color: #000000;
-    background-size: cover;
-    background-position: center top;
-    background-repeat: no-repeat;
+  font-family: 'Roboto Mono',monospace;
+  /*max-higth: 864px;*/
+  background-image: url("https://i.pinimg.com/originals/63/dd/4b/63dd4be93800754be7ac1ed67de3a686.gif");
+  background-attachment: scroll-position;
+  background-color: #000000;
+  /*background-size: ;*/
+  background-position: center top;
+  background-repeat: no-repeat;
 }
 
 .container {
@@ -15,27 +15,31 @@ body {
 
  .page-subtitle {
   font-family: 'Press Start 2P', cursive;
-  color: orangered;
+  font-size: 15px;
+  color: mediumvioletred;
   margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
 }
 
 .title3{
   font-family: 'Press Start 2P', cursive;
   color: orangered;
   margin-top: 5px;
-  font-size: 10px;
+  font-size: 16px;
 }
 
 button {
-    font-family: 'Press Start 2P', cursive;
-    width: 10rem;
-    max-width: 10rem;
-    padding: .8rem 1.5rem;
-    margin: 2rem auto;
-    border-radius: 5px;
-    border: none;
-    font-size: 1rem;
-    transition-duration: 0.4s;
+  font-family: 'Press Start 2P', cursive;
+  width: 10rem;
+  max-width: 10rem;
+  padding: .8rem 1.5rem;
+  margin: 2rem auto;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+  transition-duration: 0.4s;
 }
 
 #btnJogar:hover {
@@ -50,32 +54,25 @@ button {
 }
 
 
-bntEnviar{
-    font-family: inherit;
-    font-size: 20px;
-    background-color: purple;
-    border: 0px;
-    height: 25px;
-    width:  95px;
-    cursor: pointer;
+#div2 {
+  margin: 50px;
+  /*display: none;*/
+  font-family: inherit;
+  font-size: 20px;
+  background-color: purple;
+  border: 0px;
+  height: 25px;
+  width:  95px;
+  cursor: pointer;
 }
 
 input{
-    border: 7px double purple;
-    margin-top: 3px;
-    margin-bottom: 10px;
-   
-  }
+  border: 7px double purple;
+  margin-top: 3px;
+  margin-bottom: 10px;
+}
 
 
 .page-logo {
-    width: 200px;
-  }
-
-#guardiao {
-  display: block;
-  height: 250px;
-  margin-top: 350px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 200px;
 }
